@@ -6,7 +6,7 @@
 template<class T>
 class autoPtr {
 public:
-    autoPtr(T* ptr = nullptr) : m_ptr(ptr) {}
+    explicit autoPtr(T* ptr = nullptr) : m_ptr(ptr) {}
 
     autoPtr(const autoPtr& ptr) {
         std::cout << "copy constructor\n";

@@ -185,4 +185,5 @@ public:
     }
 };
 
+
 #endif //TEST_INHERITANCE_H

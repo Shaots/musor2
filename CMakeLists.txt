@@ -5,7 +5,7 @@ set(CMAKE_CXX_FLAGS "-fno-elide-constructors")
 
 set(CMAKE_CXX_STANDARD 17)
 
-add_executable(test main.cpp musor/sort.cpp musor/sort.h musor/calculator.cpp musor/calculator.h musor/lambda_t.cpp musor/lambda_t.h musor/Stack.cpp musor/Stack.h musor/Point.cpp musor/Point.h musor/operator_t.cpp musor/operator_t.h musor/associationt.cpp musor/associationt.h musor/Mycontainer.cpp musor/Mycontainer.h inheritance.cpp inheritance.h musor/shablon.cpp musor/shablon.h autoptr.cpp autoptr.h pattern/Singleton.cpp pattern/Singleton.h pattern/AbstractFactory.cpp pattern/AbstractFactory.h pattern/Factory.cpp pattern/Factory.h pattern/Prototype.cpp pattern/Prototype.h pattern/Builder.cpp pattern/Builder.h)
+add_executable(test main.cpp musor/sort.cpp  musor/calculator.cpp  musor/lambda_t.cpp musor/Stack.cpp  musor/Point.cpp  musor/operator_t.cpp  musor/associationt.cpp  musor/Mycontainer.cpp  inheritance.cpp  musor/shablon.cpp pattern/Singleton.cpp  pattern/AbstractFactory.cpp  pattern/Factory.cpp  pattern/Prototype.cpp  pattern/Builder.cpp)
 
 # target_link_libraries()
 

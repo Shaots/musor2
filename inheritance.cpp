@@ -1,7 +1,3 @@
-//
-// Created by Lenovo on 07.06.2024.
-//
-
 #include "inheritance.h"
 
 

@@ -23,6 +23,14 @@ public:
     }
 };
 
+class B {
+public:
+    B() {
+        std::cout << "B: " << std::endl;
+    }
+};
+
+
 int main() {
     std::cout << sizeof(A) << std::endl;
     std::vector<A> a;

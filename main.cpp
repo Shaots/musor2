@@ -6,8 +6,6 @@
 #include "pattern/Factory.h"
 #include "pattern/Prototype.h"
 #include "pattern/Builder.h"
-
-
 #include <iostream>
 
 class A {

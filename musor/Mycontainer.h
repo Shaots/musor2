@@ -5,6 +5,7 @@
 #include <iostream>
 #include <cassert>
 #include <initializer_list>
+#include <cstring>
 
 class ArrayInt {
 public:

@@ -31,6 +31,7 @@ public:
 };
 
 
+
 int main() {
     std::cout << sizeof(A) << std::endl;
     std::vector<A> a;

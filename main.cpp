@@ -30,7 +30,7 @@ public:
     }
 };
 
-
+int a = 0;
 
 int main() {
     std::cout << sizeof(A) << std::endl;

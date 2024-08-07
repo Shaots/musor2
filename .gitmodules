@@ -1,0 +1,3 @@
+[submodule "Blackjack"]
+	path = Blackjack
+	url = https://github.com/Shaots/Blackjack.git
